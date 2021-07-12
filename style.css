@@ -1,0 +1,41 @@
+
+.fondo {
+    height: 200px;
+    filter: grayscale(50%); 
+}
+
+h3{
+    padding-top: .5rem;
+    text-align: center;
+}
+p{
+    font-family: serif;
+    font-size: .8rem
+}
+
+
+.foto {
+    width: 220px;
+    height: 220px;
+    border: 1px solid black;
+    border-radius: 50%;
+    
+}
+
+.foto:hover{
+
+     transform: scaleX(-1)
+}
+.fondogris{
+    background-color: dimgrey;
+    margin-top: 2em;
+}
+.tamano{
+    width: 15em;
+    padding-top: .5rem;
+}
+
+
+.color{  
+    color:white
+}
