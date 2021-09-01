@@ -10,9 +10,13 @@ h3{
 }
 p{
     font-family: serif;
-    font-size: .8rem
+    font-size: 1.1rem
 }
-
+.colorin{
+    margin:5px;
+    background-color: aliceblue;
+    color:black;
+}
 
 .foto {
     width: 220px;
@@ -38,4 +42,7 @@ p{
 
 .color{  
     color:white
+}
+.fuente {
+    font-size: 50px;
 }
